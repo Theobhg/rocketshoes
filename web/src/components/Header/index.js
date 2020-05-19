@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import { MdShoppingCart } from 'react-icons/md';
 
-import { Container } from './styles';
+import { Container, Cart } from './styles';
 
 import logo from '../../assets/images/logo.svg';
 
